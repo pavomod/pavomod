@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-"I am a computer science student at the University of Pisa. I am proficient in various object-oriented and non-object-oriented programming languages, experienced with both relational and non-relational databases, and have experience with backend developmen."
+"I am a computer science student at the University of Pisa. I am proficient in various object-oriented and non-object-oriented programming languages, experienced with both relational and non-relational databases, and have experience with backend development."
 
 * 🌍  I'm based in Pisa
 * ✉️  You can contact me at [gioelemodica@outlook.it](mailto:gioelemodica@outlook.it)
 * 🧠  I'm learning Flutter, Flask, Fastapi, Spring
-* 🤝  I'm open to collaborating on software of any scale, from web applications to larger projects.,I am open to any kind of collaboration, so feel free to reach out!"
+* 🤝  I'm open to collaborating on software of any scale, from web applications to larger projects.I am open to any kind of collaboration, so feel free to reach out!"
 
 ### Skills
 
