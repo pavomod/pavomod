@@ -9,7 +9,7 @@ Software Developer
 * 🌍  I'm based in Pisa
 * ✉️  You can contact me at [gioelemodica@outlook.it](mailto:gioelemodica@outlook.it)
 * 🧠  I'm learning Flutter, Flask, Fastapi, Spring
-* 🤝  I'm open to collaborating on software of any scale, from web applications to larger projects.I am open to any kind of collaboration, so feel free to reach out!"
+* 🤝  I'm open to collaborating on software of any scale, from web applications to larger projects. I am open to any kind of collaboration, so feel free to reach out!"
 
 ### Skills
 
