@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-"I am a computer science student at the University of Pisa. with a solid theoretical and practical basis in use of information technologies.
-I am very motivated to continue to develop my skills and to grow professionally."
+I am a computer science student at the University of Pisa. with a solid theoretical and practical basis in use of information technologies.
+I am very motivated to continue to develop my skills and to grow professionally.
 
 * 🌍  I'm based in Pisa
 * ✉️  You can contact me at [gioelemodica@outlook.it](mailto:gioelemodica@outlook.it)
