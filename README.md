@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gioele Modica
 =====================================================================================================================================
 
-Software Developer
+Computer Science
 ------------------
 
 I am a computer science student at the University of Pisa. with a solid theoretical and practical basis in use of information technologies.
