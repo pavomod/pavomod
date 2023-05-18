@@ -9,7 +9,7 @@ I am very motivated to continue to develop my skills and to grow professionally.
 
 * 🌍  I'm based in Pisa
 * ✉️  You can contact me at [gioelemodica@outlook.it](mailto:gioelemodica@outlook.it)
-* 🧠  I'm learning Flutter, Flask, Fastapi
+* 🧠  I'm learning Spring
 * 🤝  I'm open to collaborating on software of any scale, from web applications to larger projects. I am open to any kind of collaboration, so feel free to reach out!
 
 ### Skills
