@@ -4,8 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science
 ------------------
 
-I am an artificial intelligence student at the University of Pisa. with a solid theoretical and practical basis in use of information technologies.
+I have a degree in computer science and actually I am a master's degree student in artificial intelligence at the University of Pisa with a solid theoretical and practical skills.
 I am very motivated to continue to develop my skills and to grow professionally.
+I am currently a full stack developer.
 
 * 🌍  I'm Sicilian but currently I'm based in Pisa
 * ✉️  You can contact me at [gioelemodica@outlook.it](mailto:gioelemodica@outlook.it)
