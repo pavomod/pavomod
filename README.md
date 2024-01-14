@@ -5,14 +5,14 @@ Computer Science
 ------------------
 
 I have a degree in computer science and actually I am a master's degree student in artificial intelligence at the University of Pisa with a solid theoretical and practical skills.
-I am very motivated to continue to develop my skills and to grow professionally.
-I am currently a full stack developer.
+I am very motivated to continue to develop my ability and to grow professionally.
+I am currently a full-stack developer.
 
 * 🌍  I'm Sicilian but currently I'm based in Pisa
-* ✉️  You can contact me at [gioelemodica@outlook.it](mailto:gioelemodica@outlook.it)
+* 💻​ I'm a Full-stack developer
 * 🧠  I'm constantly learning
 * 🤝  I'm open to collaborating on software of any scale, from web applications to larger projects. I am open to any kind of collaboration, so feel free to reach out!
-
+* ✉️  You can contact me at [gioelemodica@outlook.it](mailto:gioelemodica@outlook.it)
 ### Skills
 
 
